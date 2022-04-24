@@ -1,0 +1,41 @@
+
+/* SVG's in navbar */
+svg {
+    width: 130px;
+}
+
+g.svelte-1gcdbl9 {
+    fill: #fff;
+}
+
+/* NAV SECTION */
+.bg-black {
+    background-color: #000;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16px;
+    margin: 0 0 0 10px;
+    font-weight: 700;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #1ED760;
+}
+
+li a svg.svelte-8gzfq1 {
+    fill: #fff;
+    width: 36px;
+    height: 36px;
+    padding: 7px;
+    border: solid 2px #fff;
+    border-radius: 100%;
+    margin-right: 5px;
+}
+
+li a svg.svelte-8gzfq1:hover {
+    fill: #1ED760;
+    border-color: #1ED760;
+}
+
