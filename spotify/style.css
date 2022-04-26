@@ -95,3 +95,31 @@ main {
 .btn-main:hover {
     transform: scale(1.1);
 }
+
+/* FEATURES SECTION */
+#features {
+    height: 85vh;
+}
+
+#features img {
+    width: 60%;
+    height: auto;
+    margin: 30px 30px;
+}
+
+.features-title {
+    margin: 100px 0 50px 0;
+    font-weight: bold;
+}
+
+.feature-text {
+    font-size: 21px;
+    font-weight: 700;
+    margin: 0 0 10px;
+}
+
+.feature-subtext {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 21px;
+}
